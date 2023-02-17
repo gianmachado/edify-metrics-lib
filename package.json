@@ -1,5 +1,5 @@
 {
-  "name": "edify-metrics-lib",
+  "name": "@gianmachado/edify-metrics-lib",
   "version": "1.0.0",
   "description": "test lib metrics",
   "main": "index.js",
