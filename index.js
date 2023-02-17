@@ -20,3 +20,6 @@ const sendAction = async (action) => {
     return await resp.json()
 
 }
+
+
+export { getHealth, sendAction }
