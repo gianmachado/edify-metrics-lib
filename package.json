@@ -1,11 +1,20 @@
 {
   "name": "@gianmachado/edify-metrics-lib",
   "version": "1.0.0",
-  "description": "test lib metrics",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "gianzito96<gianniehues@gmail.com>",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianmachado/edify-metrics-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gianmachado/edify-metrics-lib/issues"
+  },
+  "homepage": "https://github.com/gianmachado/edify-metrics-lib#readme"
 }
